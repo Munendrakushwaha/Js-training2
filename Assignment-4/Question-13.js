@@ -1,0 +1,1 @@
+// Write a program to return inverse of an array
